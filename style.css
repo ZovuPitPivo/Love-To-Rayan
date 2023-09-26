@@ -1,0 +1,54 @@
+.white-theme{
+    background-color: white;
+    color: black;
+}
+
+.black-theme{
+    background-color: black;
+    color: white;
+}
+
+footer{
+    background-color: #ff0099;
+    justify-content: center;
+    padding: 10px;
+    display: flex;
+}
+
+.face-of-rayan{
+    float: left;
+    top:0px;
+    left:0px;
+    width: 25%; 
+    height: 25%;
+    border-radius: 20px;
+}
+
+.container{
+    width: 100%;
+    overflow: hidden;
+}
+
+.biografi{
+    margin-left: 260px;
+}
+
+.film-description{
+    margin-left: 0px;
+}
+
+.film-card{
+    margin-left: 20px;
+    width: 100%;
+    overflow: hidden;
+    border: black;
+}
+
+.film-poster{
+    float: left;
+    top:0px;
+    left:0px;
+    width: 10%; 
+    height: 10%;
+    border-radius: 20px;
+}
