@@ -39,16 +39,17 @@ footer{
 
 .film-card{
     margin-left: 20px;
-    width: 100%;
+    width: 75%;
     overflow: hidden;
-    border: black;
+    border: 2px solid black;
+    border-radius: 10px;
 }
 
 .film-poster{
     float: left;
     top:0px;
     left:0px;
-    width: 10%; 
-    height: 10%;
-    border-radius: 20px;
+    width: 15%; 
+    height: 15%;
+    border-radius: 7px;
 }
