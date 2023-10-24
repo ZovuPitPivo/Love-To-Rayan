@@ -3,6 +3,10 @@
     color: black;
 }
 
+button{
+  width: 100%;
+}
+
 .black-theme{
     background-color: black;
     color: white;
@@ -96,6 +100,7 @@ footer{
   
   /* Стили для пункта */
   .toggle-item {
+    width: 100%;
     height: 0;
     overflow: hidden;
     transition: height 0.3s ease;
@@ -104,4 +109,9 @@ footer{
   .toggle-item.active {
     height: 100px;
     background-color: #1a073a;
+  }
+
+  .film-raiting {
+    background-color: #837c90;
+    
   }
